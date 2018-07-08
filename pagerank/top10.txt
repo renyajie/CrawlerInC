@@ -1,0 +1,10 @@
+http://news.stnn.cc/shwx/ 0.0000154190893227
+http://news.stnn.cc/fzsjxw/ 0.0000154185690917
+http://news.stnn.cc/guoji/ 0.0000153028049681
+http://news.stnn.cc/hongkong/ 0.0000149319921547
+http://news.stnn.cc/ 0.0000149273191710
+http://news.stnn.cc/china/ 0.0000148297067426
+http://news.stnn.cc/hk_taiwan/ 0.0000147333603309
+http://news.stnn.cc/hk_taiwan/2018/0706/559757.shtml 0.0000134867223096
+http://news.stnn.cc/hk_taiwan/2018/0707/559958.shtml 0.0000132914638016
+http://news.stnn.cc/hk_taiwan/2018/0706/559626.shtml 0.0000132465493152
